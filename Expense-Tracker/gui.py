@@ -1,5 +1,3 @@
-# gui.py
-
 import tkinter as tk
 from tkinter import messagebox, ttk
 from database import connect_db, add_expense, fetch_expenses, delete_expense, update_expense, fetch_expenses_by_date

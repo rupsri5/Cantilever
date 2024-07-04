@@ -1,5 +1,3 @@
-# analysis.py
-
 import matplotlib.pyplot as plt
 from database import connect_db, fetch_expenses
 import pandas as pd
